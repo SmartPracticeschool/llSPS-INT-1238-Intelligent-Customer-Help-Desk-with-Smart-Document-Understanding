@@ -1,6 +1,8 @@
 # llSPS-INT-1238-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
 Creator: Almasfiza Shaikh
 
+You can view the complete report as expected for the internship at the following link:
+https://docs.google.com/document/d/1mTIWE2Rf8UzuOD0vprOJX2pxnqrvJJWUBCs6cr0eL70/edit?usp=sharing
 LINK TO THE VIDEO :<iframe width="560" height="315" src="https://www.youtube.com/embed/v8eJOrD01Z8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --------------------------------------------------------------------------------------------------------
